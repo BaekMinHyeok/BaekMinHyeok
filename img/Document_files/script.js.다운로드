@@ -1,0 +1,12 @@
+$(document).ready(function(){
+$(".slider-wrap").slick({});
+});
+
+
+$(document).ready(function(){
+    $(".news-box").slick({
+        dots:true,
+    });
+
+
+    });
